@@ -1,0 +1,25 @@
+Los codigos que se encuantran en este repositorio fueron creados y verificados en las tecnologias 
+que se listaran a continación. Por lo cual se recomienda utilizarlas para mayor facilidad de impementación.
+
+•	Python 3.7: Lenguaje de programación
+
+•	MySQL 8.0.33:  Gestor de base de datos
+
+•	XAMPP V3.3.0: Servicios para el gestor de base de datos
+
+•	ID de Arduino 2.1.0: Id de Arduino
+
+•	PyCharm 5.2.0: Id para desarrollar en Python
+
+•	Microcontrolador ESP32: Microcontrolador que alimenta y administra el módulo RFID
+
+•	RFID modelo RC522: Sensor para la lectura de tag RFID.
+
+
+El escrip con extención .ino se utiliza para la programción del microcontrolador ESP32.
+
+Los escrips con extención .php se utilizan para conectar a la base de datos y generar consulta de leer si un RFID concide con el leido y la inserccion de asistencias
+
+El escrip con extenxion .txt se utiliza para la creación de la base de datos
+
+Los archivos con extención .py son los utilizados para el servidor y cliente de las notificaciones por watsapp.
